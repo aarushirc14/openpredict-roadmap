@@ -1037,7 +1037,7 @@ export default function OpenPredictRoadmapExecutionPlan() {
           <SectionHeader
             eyebrow="Product thesis"
             title="The strategy is not more dashboards. It is better decision support."
-            description="The best version of OpenPredict is a connected decision system that helps builders move from signal to context to recommendation to action to learning."
+            
           />
           <CardGrid cards={thesisCards} />
         </section>
