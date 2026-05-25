@@ -355,10 +355,10 @@ const roadmap = [
   {
     id: "month-5",
     label: "Month 5",
-    title: "Hand Off New Community Launch + Prototype Operating Rhythm",
+    title: "Hand Off New Community Launch + Prototype Builder Operating Workflow",
     theme: "Move Launch toward build while prototyping how recommendations become recurring workflows.",
     focus:
-      "Product/design hands off New Community Launch first iteration. Engineering starts Launch implementation. Product/design prototypes operating rhythm and action tracking.",
+      "Product/design hands off New Community Launch first iteration. Engineering starts Launch implementation. Product/design prototypes operating workflow and action tracking.",
     icon: Workflow,
     status: "Workflow Design",
     workstreams: [
@@ -377,7 +377,7 @@ const roadmap = [
             ],
           },
           {
-            title: "Prototype operating rhythm workflows",
+            title: "Prototype operating workflows",
             bullets: [
               "Weekly update.",
               "Bi-weekly performance review.",
@@ -510,10 +510,10 @@ const roadmap = [
   {
     id: "months-7-9",
     label: "Months 7-9",
-    title: "Scale the Operating Rhythm",
+    title: "Scale the Operating Workflow",
     theme: "Turn product insight into recurring customer workflows.",
     focus:
-      "Product/design prototypes portfolio and operating rhythm workflows. Engineering implements validated workflows. Research/backend continues context engine work.",
+      "Product/design prototypes portfolio and operating workflows. Engineering implements validated workflows. Research/backend continues context engine work.",
     icon: Network,
     status: "Scale",
     workstreams: [
@@ -553,7 +553,7 @@ const roadmap = [
         summary: "Build validated workflows and keep measuring usage.",
         items: [
           {
-            title: "Implement validated operating rhythm workflows",
+            title: "Implement validated operating workflows",
             bullets: [
               "Build only after product/design validates the workflow.",
               "Prioritize recurring customer value over new one-off views.",
@@ -755,7 +755,7 @@ const architecture = [
       "Decision-first Pulse and Outlook 2.0.",
       "Community Launch readiness workflows.",
       "Decision Briefs, internal prep, and recurring updates.",
-      "Portfolio and operating rhythm workflows.",
+      "Portfolio and operating workflows.",
     ],
   },
   {
@@ -1223,7 +1223,7 @@ export default function OpenPredictRoadmapExecutionPlan() {
             <div className="rounded-[2rem] border border-white/10 bg-white/5 p-6 md:p-8">
               <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
                 <div className="max-w-2xl">
-                  <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-400">Roadmap rhythm</div>
+                  <div className="text-sm font-semibold uppercase tracking-[0.18em] text-slate-400">Roadmap Cycle</div>
                   <p className="mt-3 text-2xl font-semibold tracking-tight text-white">
                     Prototype → validate → prepare capability → implement → learn.
                   </p>
